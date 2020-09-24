@@ -1,0 +1,74 @@
+[
+    {
+       "id":4,
+       "img":"arrow",
+       "duration":"60 Min",
+       "rating":7.4,
+       "genres":"Drama, Action, Science-Fiction",
+       "name":"Arrow",
+       "description":"After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific."
+    },
+    {
+       "id":65,
+       "img":"bones",
+       "duration":"60 Min",
+       "rating":8.2,
+       "genres":"Drama, Crime, Medical",
+       "name":"Bones",
+       "description":"F.B.I. Agent Seeley Booth is teamed up with forensic anthropologist Dr. Temperance 'Bones' Brennan to solve some of the most baffling and bizarre crimes ever."
+    },
+    {
+       "id":169,
+       "img":"breaking-bad",
+       "duration":"60 Min",
+       "rating":9.3,
+       "genres":"Drama , Crime , Thriller",
+       "name":"Breaking Bad",
+       "description":"Breaking Bad follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy."
+    },
+    {
+       "id":104,
+       "img":"dominion",
+       "duration":"60 Min",
+       "rating":7.1,
+       "genres":"Action , Adventure , Fantasy",
+       "name":"Dominion",
+       "description":"Dominion is an epic supernatural drama set in the near future. Specifically, 25 years after 'The Extinction War,' when an army of lower angels, assembled by the archangel Gabriel, waged war against mankind."
+    },
+    {
+       "id":13,
+       "img":"flash",
+       "duration":"60 Min",
+       "rating":7.9,
+       "genres":"Drama , Action , Science-Fiction",
+       "name":"The Flash",
+       "description":"After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel."
+    },
+    {
+       "id":82,
+       "img":"game-of-thrones",
+       "duration":"60 Min",
+       "rating":9.1,
+       "genres":"Drama , Adventure , Fantasy",
+       "name":"Game of Thrones",
+       "description":"Based on the bestselling book series A Song of Ice and Fire by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime."
+    },
+    {
+       "id":171,
+       "img":"how-i-met-your-mother",
+       "duration":"30 Min",
+       "rating":7.8,
+       "genres":"Drama , Comedy , Romance",
+       "name":"How I Met Your Mother",
+       "description":"How I Met Your Mother is a comedy about Ted and how he fell in love. It all starts when Ted's best friend, Marshall drops the bombshell that he's going to propose to his long-time girlfriend, Lilya kindergarten teacher."
+    },
+    {
+       "id":174,
+       "img":"parks-and-recreation",
+       "duration":"30 Min",
+       "rating":8.5,
+       "genres":"Comedy",
+       "name":"Parks and Recreation",
+       "description":"Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee."
+    }
+ ]
