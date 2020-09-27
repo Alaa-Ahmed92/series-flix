@@ -3,6 +3,7 @@ It provides a service for many fans of foreign series to browse and read a short
 
 ### Demo Link :  [Series Flix](http://alaa-ahmed.com/series-flix/)
 
+
 ## Main Features
 * You can read a short description of your favorite series.
 * You can see the rating of the series.
