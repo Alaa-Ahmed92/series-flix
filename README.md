@@ -1,6 +1,8 @@
 ## What Does A Project Do?
 It provides a service for many fans of foreign series to browse and read a short description of any series they want to watch. They can read about it and see their trailer and also see the cast that participated in the work.
 
+### Demo Link :  [Series Flix](http://alaa-ahmed.com/series-flix/)
+
 ## Main Features
 * You can read a short description of your favorite series.
 * You can see the rating of the series.
